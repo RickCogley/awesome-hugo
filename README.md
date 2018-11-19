@@ -92,7 +92,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 - [How To Use NPM As A Build Tool With Hugo - The Codestead](http://thecodestead.com/post/how-to-use-npm-as-a-build-tool-with-hugo/) - By Isaac Gregson.
 - [Bleve Search for Hugo Sites](http://www.blevesearch.com/news/Site-Search/) - By Bleve.
 - [Hugo on Netlify — Insanely Fast Deploys](https://www.netlify.com/blog/2015/07/30/hugo-on-netlify-insanely-fast-deploys/) - By Netlify.
-- [Why Hugo? A static site generator optimized for performance](http://esolia.pro/en/why-did-esolia-choose-hugo/) - By Rick Cogley, eSolia.
+- [Why did eSolia Choose Hugo? A static site generator optimized for performance](https://esolia.com/post/why-did-esolia-choose-hugo/) - By Rick Cogley, eSolia.
 - [Static Site E-Commerce (part 3): Integrating Snipcart with Hugo](https://snipcart.com/blog/snipcart-hugo-integration/) - By Snipcart.
 - [Static sites go all Hollywood](https://speakerdeck.com/philhawksworth/static-sites-go-all-hollywood/) - By Phil Hawksworth.
 - [Hands on Experience with Hugo as a Static Site Generator](http://usersnap.com/blog/hands-on-experience-with-hugo-static-site-generator/) - By Thomas Peham, Usersnap.
@@ -201,7 +201,7 @@ Hugo is a general-purpose website framework—written in Go—that generates sta
 Gists are succinct code snippets. Please only include things that are useful to many.
 
 - [#gohugo search index with "some" stop words removed](https://gist.github.com/budparr/c09ab912d2ba184b7d962aacbecb2816)
-
+- [Hugo zsh functions for local serving and deploying via rsync](https://gist.github.com/RickCogley/5673669a5c6e9b05070cd4c50e4bd50f)
 
 
 
